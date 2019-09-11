@@ -1,0 +1,38 @@
+---
+title: "Accessing ECLS-K"
+author: "William Murrah"
+date: "September 12, 2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Overview
+
+* About ECLS-K
+* How to Learn More
+* Downloading the data
+* Look at ECLS-K data
+* Electronic Code Book
+* R Package EdSurvey
+
+## ECLS-K
+
+https://nces.ed.gov/ecls/
+
+
+## Steps to Downloading ECLS-K 1998 | with SPSS
+
+* Download Childk8p.zip and Childk8p.z01-Childk8p.z05
+* Download the appropriate software script
+* Move all these files to your destination folder
+* Extract the zip folder into a subfolder
+* Modify the syntax file to find the resulting .dat file
+* Run the syntax file to extract the data
+* Enjoy a beverage of your choice (it takes a while for the data to extract)
+
+## EdSurvey Package in R
+
+https://www.air.org/project/nces-data-r-project-edsurvey
