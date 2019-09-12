@@ -28,7 +28,7 @@ https://nces.ed.gov/ecls/
 * Download Childk8p.zip and Childk8p.z01-Childk8p.z05
 * Download the appropriate software script
 * Move all these files to your destination folder
-* Extract the zip folder into a subfolder
+* Extract the zip folder into a sub-folder
 * Modify the syntax file to find the resulting .dat file
 * Run the syntax file to extract the data
 * Enjoy a beverage of your choice (it takes a while for the data to extract)
@@ -36,3 +36,16 @@ https://nces.ed.gov/ecls/
 ## EdSurvey Package in R
 
 https://www.air.org/project/nces-data-r-project-edsurvey
+
+
+## Some future directions for QMER
+
+* Workshops: This semester "Data Management Workshop"
+* Works-in-progress
+* Acquiring "Franklin" 
+* Acquiring NCES and other public use data
+* Possibly acquiring restricted use data (long-term goal)
+
+## Materials for today
+
+https://github.com/auqmer
